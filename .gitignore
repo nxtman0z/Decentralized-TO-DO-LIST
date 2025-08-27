@@ -1,0 +1,9 @@
+node_modules/ 
+build/ 
+dist/ 
+.env 
+.env.local 
+artifacts/ 
+cache/ 
+*.log 
+coverage/ 
